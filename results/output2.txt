@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration><constant name="arr1">[10, 20, 30]</constant><value>[10, 20, 30]</value></configuration>

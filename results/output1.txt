@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration><constant name="x">5</constant><constant name="y">10</constant><expression_result>15</expression_result></configuration>
